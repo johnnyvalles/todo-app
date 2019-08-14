@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded", (e) => { window.alert("DOM Content Loaded")});

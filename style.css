@@ -71,3 +71,7 @@ a {
 a:hover {
     border-bottom: 4px solid #f5f6fa;
 }
+
+label {
+    color: #000; 
+}
